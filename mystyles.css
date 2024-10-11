@@ -1,5 +1,6 @@
 ﻿body {
     background-image: url(Pictures/coffee.jpg); 
+    height: 100vh;
 }
 .division {
     background: #8D704A;
